@@ -56,7 +56,7 @@ int array_min(int arr[], int size) {
 
 int array_max(int arr[], int size) {
   // Return largest element
-  int my_max = INT_MIN;  // set to min infinity
+  int my_max = INT_MIN;
   for (int i = 0; i < size; i++) {
     if (my_max < arr[i]) {
       my_max = arr[i];
