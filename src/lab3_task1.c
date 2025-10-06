@@ -1,6 +1,6 @@
 /*
  * Lab 3, Task 1
- * Student Name, Student ID
+ * Abhidev Sreeragam Nair, 241ADB110
  *
  * Implement array algorithms:
  *   - find minimum value
